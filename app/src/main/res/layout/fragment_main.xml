@@ -51,7 +51,7 @@
         android:layout_alignParentEnd="true"
         android:layout_marginRight="32dp"
         android:layout_marginEnd="32dp"
-        android:layout_alignBottom="@+id/textView3"
-        android:layout_below="@+id/textView" />
+        android:layout_below="@+id/textView"
+        android:layout_alignBottom="@+id/textView3" />
 
 </RelativeLayout>
